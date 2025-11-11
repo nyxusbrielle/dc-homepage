@@ -88,7 +88,7 @@ body {
 }
 
 /* Senakulo Video */
-#senakulo-vid img {
+#senakulo-vid video {
    display: block;
    max-width: 600px;
    width: 90%;
@@ -96,6 +96,7 @@ body {
    aspect-ratio: 16/9;
    margin: clamp(30px, 5vw, 50px) auto 0;
 }
+
 
 /* Header */
 #header {
