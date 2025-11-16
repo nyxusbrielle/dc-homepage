@@ -89,7 +89,7 @@ body {
 }
 
 /* Individual image styling */
-.video.video2023 iframe, .video2024 iframe, .video2019 iframe {
+.video, .video2023 iframe, .video2024 iframe, .video2019 iframe {
     display: block;
     height: 250px;
     width: 280px;
@@ -307,3 +307,4 @@ body {
     }
 
 }
+
